@@ -1,0 +1,5 @@
+./tilesets/tilestonormal.jpg
+3
+./maps/1.1.map ./maps/1.2.map 
+./maps/1.3.map ./maps/1.4.map ./maps/1.5.map 
+./maps/1.6.map ./maps/1.7.map ./maps/1.8.map ./maps/1.9.map 

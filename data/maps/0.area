@@ -1,0 +1,5 @@
+./tilesets/tilestoeasy.jpg
+3
+./maps/0.1.map ./maps/0.2.map 
+./maps/0.3.map ./maps/0.4.map ./maps/0.5.map 
+./maps/0.6.map ./maps/0.7.map ./maps/0.8.map ./maps/0.9.map 

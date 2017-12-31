@@ -1,0 +1,8 @@
+#ifndef CFONT_H_INCLUDED
+#define CFONT_H_INCLUDED
+
+#define FONTWIDTH 256
+
+
+
+#endif // CFONT_H_INCLUDED
